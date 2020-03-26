@@ -6,3 +6,5 @@ Tesla
 Mercedes S500
 Civic
 Lexus GX470
+Kia Optima
+Subaru WRX
