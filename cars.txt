@@ -7,3 +7,5 @@ Mercedes S500
 Civic
 Lexus GX470
 Honda Civic
+Kia Optima
+Subaru WRX
